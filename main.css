@@ -64,16 +64,18 @@
 
         .fact {
             background: #fefbf5;
+            border-style: solid;
+            border: 5px solid #e67e22;
             margin-bottom: 28px;
             padding: 22px 28px;
             transition: all 0.2s ease;
         }
 
-        .fact:hover {
+        /* .fact:hover {
             transform: translateX(6px);
             background: #fff8ef;
             box-shadow: 0 8px 20px rgba(0,0,0,0.05);
-        }
+        } */
 
         .fact h3 {
             color: #c95a0f;
