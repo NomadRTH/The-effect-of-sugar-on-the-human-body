@@ -109,6 +109,7 @@
         }
 
         .sources li::before {
+            content: "🔹";
             position: absolute;
             left: 0;
             color: #e67e22;
